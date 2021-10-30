@@ -1,4 +1,4 @@
-<h1 align="center">Well, hello there 👋, I'm Rui Melo</h1>
+<h1 align="center">Well, hello there 👋 </h1>
 <h2 align="center">My name is Rui Melo</h2>
 <h3 align="center">I'm a MSc Software Engineering student at IST, Lisbon, Portugal</h3>
 
