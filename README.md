@@ -1,5 +1,5 @@
 <h1 align="center">Well, hello there 👋 </h1>
-<h2 align="center">My name is Rui Melo<a href="https://www.linkedin.com/in/rui--melo/"><img width='40px' src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSf_KBK_0_rRw9zkazLgksl6dNMasmTiN6SqA&usqp=CAU" /></a>&nbsp;&nbsp;&nbsp;</h2>
+<h2 align="center">My name is Rui Melo</h2>
 <h3 align="center">I'm a MSc Software Engineering student at IST, Lisbon, Portugal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rufimelo99&label=Profile%20views&color=0e75b6&style=flat" alt="rufimelo99" /> </p>
