@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Deep Learning**
 
 - 📫 How to reach me **rufimelo99@gmail.com**
-
+<a href="https://www.linkedin.com/in/rui--melo/"><img width='20px' src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSf_KBK_0_rRw9zkazLgksl6dNMasmTiN6SqA&usqp=CAU" /></a>&nbsp;&nbsp;&nbsp;
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rufimelo99&show_icons=true&theme=dark&locale=en&layout=compact" alt="rufimelo99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rufimelo99&theme=dark" alt="rufimelo99" /></p>
