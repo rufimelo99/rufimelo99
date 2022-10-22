@@ -21,19 +21,19 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rufimelo99&repo=UltimateChess&theme=dark" />
 
 </a>  
-<a href="https://github.com/rufimelo99/[Captivity](https://github.com/rufimelo99/UltimateChess)">
+<a href="https://github.com/rufimelo99/UltimateChess">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rufimelo99&repo=Captivity&theme=dark" />
 
 </a>  
-<a href="https://github.com/rufimelo99/MNIST(https://github.com/rufimelo99/UltimateChess)">
+<a href="https://github.com/rufimelo99/UltimateChess">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rufimelo99&repo=MNIST&theme=dark" />
 
 </a>  
-<a href="https://github.com/rufimelo99/AASMA(https://github.com/rufimelo99/UltimateChess)">
+<a href="https://github.com/rufimelo99/UltimateChess">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rufimelo99&repo=AASMA&theme=dark" />
 
 </a>  
-<a href="https://github.com/rufimelo99/bomberman-ai(https://github.com/rufimelo99/UltimateChess)">
+<a href="https://github.com/rufimelo99/UltimateChess">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rufimelo99&repo=bomberman-ai&theme=dark" />
 
 </a>  
