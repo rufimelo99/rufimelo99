@@ -17,7 +17,7 @@
 
 ## Projects
 
-<a href="https://github.com/rufimelo99/[UltimateChess](https://github.com/rufimelo99/UltimateChess)">
+<a href="https://github.com/rufimelo99/UltimateChess">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rufimelo99&repo=UltimateChess&theme=dark" />
 
 </a>  
