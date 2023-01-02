@@ -68,7 +68,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/nneji123"><img alt="Ifeanyi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rufimelo99&custom_title=Ifeanyi's%20Contribution%20Graph&theme=dark" /></a>
+   <a href="https://github.com/rufimelo99"><img alt="rufimelo99's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rufimelo99&custom_title=Ifeanyi's%20Contribution%20Graph&theme=dark" /></a>
   <br/>
 
 </details>
