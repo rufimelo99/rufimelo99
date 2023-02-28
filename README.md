@@ -11,7 +11,9 @@
    <a href="https://www.linkedin.com/in/rui--melo/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
- 
+   <a href="[https://www.linkedin.com/in/rui--melo/](https://huggingface.co/rufimelo)" target="_blank">
+    <img alt="huggingface" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg">
+  </a>   
   </p>
 
 
