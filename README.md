@@ -1,7 +1,7 @@
 
 ## Hi, I’m Rui Melo <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 32px height = 32px> 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Well,+hello+there!;My+name's+Rui+!;I'm+a+Data+Scientist;I'm+also+a+Master's+Degree+student+in+Portugal" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Well,+hello+there!;My+name's+Rui+!;I'm+a+Machine+Learning+Engineer+in+Portugal" /></a>
 </p>
 
 <p align ="center">
