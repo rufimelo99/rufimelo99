@@ -23,28 +23,8 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rufimelo99&repo=UltimateChess&theme=dark" />
 
 </a>  
-<a href="https://github.com/rufimelo99/UltimateChess">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rufimelo99&repo=Captivity&theme=dark" />
-
-</a>  
-<a href="https://github.com/rufimelo99/UltimateChess">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rufimelo99&repo=MNIST&theme=dark" />
-
-</a>  
-<a href="https://github.com/rufimelo99/UltimateChess">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rufimelo99&repo=AASMA&theme=dark" />
-
-</a>  
-<a href="https://github.com/rufimelo99/UltimateChess">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rufimelo99&repo=bomberman-ai&theme=dark" />
-
-</a>  
-<a href="https://github.com/rufimelo99/UltimatumGame">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rufimelo99&repo=UltimatumGame&theme=dark" />
-
-</a>  
-<a href="https://github.com/rufimelo99/LegoInteractive">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rufimelo99&repo=LegoInteractive&theme=dark" />
+<a href="https://github.com/rufimelo99/ml_security">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rufimelo99&repo=ml_security&theme=dark" />
 
 </a>  
 
