@@ -19,6 +19,17 @@
 
 ## Projects
 
+
+<a href="https://github.com/rufimelo99/FisherSAE">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rufimelo99&repo=FisherSAE&theme=dark" />
+
+</a>  
+
+<a href="https://github.com/rufimelo99/SAE-Java-Bug-Detection">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rufimelo99&repo=SAE-Java-Bug-Detection&theme=dark" />
+
+</a>  
+
 <a href="https://github.com/rufimelo99/UltimateChess">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rufimelo99&repo=UltimateChess&theme=dark" />
 
